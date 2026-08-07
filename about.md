@@ -25,6 +25,20 @@ I am currently an **Undergraduate Researcher at Emory University**.
 
 More details about my research interests and current work will be added here as they develop.
 
+# 📚 Publications
+
+## Journal Articles
+
+**Exercise improves high-fat diet-induced metabolic disorder by promoting HDAC5 degradation through the ubiquitin–proteasome system in skeletal muscle**  
+Song Huang, Xinyue Zheng, Xinyu Zhang, **Zhe Jin**, Sujuan Liu, Li Fu, Yanmei Niu  
+*Applied Physiology, Nutrition, and Metabolism*, 2022.  
+[DOI: 10.1139/apnm-2022-0174](https://doi.org/10.1139/apnm-2022-0174)
+
+**Combined cell grafting and VPA administration facilitates neural repair through axonal regeneration and synaptogenesis in traumatic brain injury**  
+Sujuan Liu, Haili Tian, Yanmei Niu, Chunxia Yu, Lingjian Xie, **Zhe Jin**, Wenyan Niu, Jun Ren, Li Fu, Zhi Yao  
+*Acta Biochimica et Biophysica Sinica*, 2022.  
+[DOI: 10.3724/abbs.2022123](https://doi.org/10.3724/abbs.2022123)
+
 # 🌱 Currently
 
 - Studying Computer Science at Emory University
