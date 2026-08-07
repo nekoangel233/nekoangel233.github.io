@@ -31,11 +31,7 @@ More details about my research interests and current work will be added here as 
 
 Peer-reviewed journal articles. **My name is bolded below.**
 
-<div style="margin-top: 1.2rem;">
-
-<img src="https://img.shields.io/badge/APNM-2022-4C78A8?style=flat" alt="APNM 2022"> 
-<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-left:4px;">Metabolism</span>
-<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-left:4px;">Exercise Physiology</span>
+![APNM 2022](https://img.shields.io/badge/APNM-2022-4C78A8?style=flat)
 
 [**Exercise improves high-fat diet-induced metabolic disorder by promoting HDAC5 degradation through the ubiquitin–proteasome system in skeletal muscle**](https://doi.org/10.1139/apnm-2022-0174)
 
@@ -43,15 +39,12 @@ Song Huang, Xinyue Zheng, Xinyu Zhang, **Zhe Jin**, Sujuan Liu, Li Fu, Yanmei Ni
 *Applied Physiology, Nutrition, and Metabolism* · Journal Article  
 [DOI: 10.1139/apnm-2022-0174](https://doi.org/10.1139/apnm-2022-0174)
 
-</div>
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-right:4px;">Metabolism</span>
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;">Exercise Physiology</span>
 
-<div style="margin: 1.35rem 0; border-top: 1px solid #eaecef;"></div>
+---
 
-<div>
-
-<img src="https://img.shields.io/badge/ABBS-2022-7A6FAC?style=flat" alt="ABBS 2022">
-<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-left:4px;">Neural Repair</span>
-<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-left:4px;">Traumatic Brain Injury</span>
+![ABBS 2022](https://img.shields.io/badge/ABBS-2022-7A6FAC?style=flat)
 
 [**Combined cell grafting and VPA administration facilitates neural repair through axonal regeneration and synaptogenesis in traumatic brain injury**](https://doi.org/10.3724/abbs.2022123)
 
@@ -59,7 +52,8 @@ Sujuan Liu, Haili Tian, Yanmei Niu, Chunxia Yu, Lingjian Xie, **Zhe Jin**, Wenya
 *Acta Biochimica et Biophysica Sinica* · Journal Article  
 [DOI: 10.3724/abbs.2022123](https://doi.org/10.3724/abbs.2022123)
 
-</div>
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-right:4px;">Neural Repair</span>
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;">Traumatic Brain Injury</span>
 
 # 🌱 Currently
 
