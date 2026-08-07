@@ -55,6 +55,13 @@ Sujuan Liu, Haili Tian, Yanmei Niu, Chunxia Yu, Lingjian Xie, **Zhe Jin**, Wenya
 <span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-right:4px;">Neural Repair</span>
 <span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;">Traumatic Brain Injury</span>
 
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🏆 Honors & Awards
+
+- **Dean’s List, Oxford College of Emory University** — Fall 2023
+- **National Class I Athlete (Volleyball)** — Chinese Youth Volleyball Team, May 2022
+
 # 🌱 Currently
 
 - Studying Computer Science at Emory University
