@@ -40,7 +40,7 @@ More details about my research interests and current work will be added here as 
 
 # 📝 Publications
 
-Peer-reviewed journal articles. **My name is bolded below.**
+Peer-reviewed journal articles.
 
 ![APNM 2022](https://img.shields.io/badge/APNM-2022-4C78A8?style=flat)
 
