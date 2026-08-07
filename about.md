@@ -38,3 +38,4 @@ Feel free to reach out if you'd like to connect.
 - **Email:** zhe.jin@emory.edu
 - **GitHub:** [nekoangel233](https://github.com/nekoangel233)
 - **LinkedIn:** [Zhe Jin](https://www.linkedin.com/in/neko-jin-229564322/)
+- **ORCID:** [0000-0002-7096-3270](https://orcid.org/0000-0002-7096-3270)
