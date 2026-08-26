@@ -42,6 +42,20 @@ More details about my research interests and current work will be added here as 
 
 Peer-reviewed journal articles.
 
+![Sci Rep 2026](https://img.shields.io/badge/Sci_Rep-2026-2E7D32?style=flat)
+
+[**Physical education examination cognition and exercise behavior in Chinese adolescents: the mediating role of exercise attitude**](https://doi.org/10.1038/s41598-026-68000-z)
+
+Zhi Ming, **Zhe Jin**, Hongqing Sheng, Zongqiang Jin  
+*Scientific Reports* · Journal Article · Open Access  
+[DOI: 10.1038/s41598-026-68000-z](https://doi.org/10.1038/s41598-026-68000-z)
+
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-right:4px;">Physical Education</span>
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;margin-right:4px;">Exercise Behavior</span>
+<span style="display:inline-block;padding:2px 9px;border-radius:999px;background:#f2f4f7;color:#475467;font-size:0.78em;font-weight:600;">Adolescent Health</span>
+
+---
+
 ![APNM 2022](https://img.shields.io/badge/APNM-2022-4C78A8?style=flat)
 
 [**Exercise improves high-fat diet-induced metabolic disorder by promoting HDAC5 degradation through the ubiquitin–proteasome system in skeletal muscle**](https://doi.org/10.1139/apnm-2022-0174)
