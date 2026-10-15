@@ -30,9 +30,9 @@ More details about my research interests and current work will be added here as 
 # 💼 Experience & Internships
 
 - **Undergraduate Researcher**, Emory University — Atlanta, GA, USA · *Jun 2026 – Present*
-- **Research Intern**, Institute for Electronics and Information Technology in Tianjin, Tsinghua University — Tianjin, China · *Jun 2026 – Present*
-- **Software Engineering Intern**, Shanghai Yanyu Technology Co., Ltd. — Shanghai, China · *Oct 2025 – Jan 2026*
-- **Data Analyst & AI Researcher**, Beijing Zhongke Wenge Technology Co., Ltd. — Beijing, China · *May 2025 – Aug 2025*
+- **Large Model Algorithm Research Intern**, Institute for Electronics and Information Technology in Tianjin, Tsinghua University — Tianjin, China · *Jun 2026 – Sep 2026*
+- **Sports Data & Algorithm Intern**, Shanghai Yanyu Technology Co., Ltd. — Shanghai, China · *Jan 2026 – May 2026*
+- **Large Language Model Algorithm Intern**, Zhongke Wenge Technology Co., Ltd. — Beijing, China · *Jun 2025 – Aug 2025*
 - **Junior Desktop Assistant**, Emory University — Atlanta, GA, USA · *Aug 2023 – May 2025*
 - **Lab Assistant & Data Analyst**, Tianjin Medical University — Tianjin, China · *Jan 2021 – Aug 2022*
 
